@@ -1,16 +1,62 @@
-### Hi there 👋
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello, I am Lon Li</b>
+        </samp>
+</h3>
 
-<!--
-**lon5948/lon5948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <samp>
+    「 Computer Science student at National Yang Ming Chiao Tung University 」
+    <br>
+    <br>
+    :email: Reach me anytime: a0988282303@gmail.com
+    <br>
+    <br>
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <a href="https://medium.com/@a0988282303" target="blank">
+  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" alt="lon5948" />
+ </a>
+ <a href="https://linkedin.com/in/lon-li-5b4352234" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="lon5948"/>
+ </a>
+ <a href="https://www.instagram.com/cdebpm.918_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=flat&logo=instagram&logoColor=white" alt="lon5948" />
+ </a> 
+ <a href="https://facebook.com/lon918" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-9cf?&style=flat&logo=facebook&logoColor=white" alt="lon5948"  />
+  </a> 
+</p>
+
+---
+<a> 
+    <a href="https://github.com/lon5948"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=lon5948&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/lon5948"><img alt="Lon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lon5948&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+## Languages and Tools:
+<p>
+<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
+
+<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
+
+<img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+</p>
