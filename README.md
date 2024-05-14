@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
- <a href="https://medium.com/@a0988282303" target="blank">
+ <a href="https://medium.com/@lon5948" target="blank">
   <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" alt="lon5948" />
  </a>
- <a href="https://linkedin.com/in/lon-li-5b4352234" target="_blank">
+ <a href="https://linkedin.com/in/lon5948" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="lon5948"/>
  </a>
  <a href="https://www.instagram.com/cdebpm.918_/" target="_blank">
