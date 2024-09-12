@@ -41,6 +41,11 @@
 
 ## Languages and Tools:
 <p>
+<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+
 <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
@@ -50,13 +55,10 @@
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg">
