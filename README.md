@@ -33,7 +33,7 @@
 
 ---
 <a> 
-    <a href="https://github.com/lon5948"><img alt="Lon's Github Stats" src="[https://denvercoder1-github-readme-stats.vercel.app/api?username=lon5948](https://vercel-black-kappa.vercel.app/api?username=lon5948&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/lon5948"><img alt="Lon's Github Stats" src="https://vercel-black-kappa.vercel.app/api?username=lon5948&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/lon5948"><img alt="Lon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lon5948&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
