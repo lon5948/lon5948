@@ -26,9 +26,6 @@
  <a href="https://www.instagram.com/cdebpm.918_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=flat&logo=instagram&logoColor=white" alt="lon5948" />
  </a> 
- <a href="https://facebook.com/lon918" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-9cf?&style=flat&logo=facebook&logoColor=white" alt="lon5948"  />
-  </a> 
 </p>
 
 ---
